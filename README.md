@@ -1,6 +1,6 @@
-# Deep Learning Practice
+# Deep Learning - Thực hành
 
-README này mô tả rõ **mỗi lab đang làm gì** để giảng viên nhìn vào có thể nắm nhanh nội dung thực hành.
+Repository tổng hợp các notebook thực hành môn Deep Learning, trình bày rõ mục tiêu và nội dung của từng lab.
 
 ## Tổng quan các lab
 
